@@ -1,19 +1,19 @@
-# eosjs
+# osbjs
 [![Build Status](https://github.com/eosio/eosjs/workflows/CI/badge.svg?branch=master)](https://github.com/EOSIO/eosjs/actions)  [![npm version](https://badge.fury.io/js/eosjs.svg)](https://badge.fury.io/js/eosjs)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  ![npm](https://img.shields.io/npm/dw/eosjs.svg)
 
 Javascript API for integration with EOSIO-based blockchains using [EOSIO RPC API](https://developers.eos.io/eosio-nodeos/reference).
 
-Documentation can be found [here](https://eosio.github.io/eosjs)
+Documentation can be found [here](https://github.com/OASISBloc/osbjs)
 
 ## Installation
 
 ### NPM
 
-The official distribution package can be found at [npm](https://www.npmjs.com/package/eosjs).
+The official distribution package can be found at [npm](https://www.npmjs.com/package/osbjs).
 
 ### Add dependency to your project
 
-`yarn add eosjs`
+`yarn add osbjs`
 
 ### Using with Typescript
 
